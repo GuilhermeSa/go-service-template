@@ -1,0 +1,2 @@
+port: 8080
+pokeapi_url: "https://pokeapi.co/api/v2/"
